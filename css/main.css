@@ -1,0 +1,8 @@
+/* step 5/13) use one of the two classes to define the height and width of the div. Use the other class to define the div's background-color. */
+.first {
+  height: 100px;
+  width: 200px;
+}
+.second {
+  background-color: red;
+}
